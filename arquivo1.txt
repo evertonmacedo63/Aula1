@@ -1,4 +1,6 @@
 a
-bc
+b
+c
 d
 e
+f
